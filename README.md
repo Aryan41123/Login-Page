@@ -52,7 +52,7 @@ git clone https://github.com/Aryan41123/Login-Page.git
 cd Login-Page
 npm install
 
-# 🔐 Login Auth Backend
+# 🔐 Login Page - Backend
 
 A secure and minimal backend authentication system built with **Node.js**, **TypeScript**, **Express**, **Prisma**, and **MongoDB**. It allows users to register and login with password hashing using `bcrypt`. Built with scalability, type safety, and clean architecture in mind.
 
